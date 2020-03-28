@@ -1,4 +1,3 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/kgashok/memcode/tree/kgashok/gitpod-version)
 [![Open Source Helpers](https://www.codetriage.com/lakesare/memcode/badges/users.svg)](https://www.codetriage.com/lakesare/memcode)
 
 Site ❤️: http://www.memcode.com/
@@ -57,3 +56,14 @@ ___
 ### Start test-runners
 1. Run `npm install`.
 2. `make test-backend` for backend, and `make test-frontend`. Both will be automatically compiling code in the runtime, so you don't need to bother with code compilers. Both run code in `**/*/... .test.js` file inside of, respectively, backend and frontend folders.
+
+
+## Using gitpod 
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/kgashok/memcode/gitpod-version)
+
+### Troubleshooting
+
+1. Make sure you have a valid `env.js` file 
+2. You might have to `createuser` after postgreSQL is up
+
