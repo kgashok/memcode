@@ -11,3 +11,7 @@ npm-debug.log
 
 
 lakesare.secrets.js
+
+.gitpod.Dockerfile
+.gitpod.yml
+
