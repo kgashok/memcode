@@ -1,6 +1,6 @@
 ## Using gitpod 
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/kgashok/memcode/gitpod-version)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/kgashok/memcode/tree/gitpod-version)
 
 ### Troubleshooting
 
@@ -10,7 +10,7 @@
 2. Click on the `Ports` window in the bottom console
         - Again `Port 3000`, click `"Show in Browser"` button 
 3. If the `"Show" in Browser"` does not show up, do this: 
-    - in the workspace/memcode/ terminale, press <Ctrl-C>
+    - in the workspace/memcode/ terminal, press <Ctrl-C>
     - run the command `make all` 
     - Go back to Step 2
 
