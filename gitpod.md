@@ -10,7 +10,7 @@
 2. Click on the `Ports` window in the bottom console
         - Again `Port 3000`, click `"Show in Browser"` button 
 3. If the `"Show" in Browser"` does not show up, do this: 
-    - in the workspace/memcode/ terminal, press <Ctrl-C>
+    - in the workspace/memcode/ terminal, press `<Ctrl-C>`
     - run the command `make all` 
     - Go back to Step 2
 4. After launching the app in the browser, grab your URL from the addressbar which looks 
