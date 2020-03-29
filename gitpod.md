@@ -13,3 +13,8 @@
     - in the workspace/memcode/ terminale, press <Ctrl-C>
     - run the command `make all` 
     - Go back to Step 2
+
+4. Open .gitignore file and add these lines at the bottom
+    - `.gitpod.Dockerfile`
+    - `.gitpod.yml`
+    - `gitpod.md` 
