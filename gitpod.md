@@ -13,6 +13,10 @@
     - in the workspace/memcode/ terminal, press <Ctrl-C>
     - run the command `make all` 
     - Go back to Step 2
+4. After launching the app in the browser, and the github callback fails, 
+    - replace the http://localhost:3000/ with 
+      with your own gitpod URL which will look something like this 
+        - https://3000-ed00f122-ff83-4345-8442-142d3707044c.ws-ap01.gitpod.io/
 
 4. Open .gitignore file and add these lines at the bottom
     - `.gitpod.Dockerfile`
