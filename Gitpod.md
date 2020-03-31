@@ -28,3 +28,6 @@
 7. Remember to create a bookmark in your browser for the gitpod container
    you have just created
     - You now have a complete cloud development environment!
+
+NB: _Step 4-6 will not be necessary for launching the web app again.
+    The callback resolution happens as long as you stay logged in._
