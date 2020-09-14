@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron:  '50 6 * * *'
+    - cron:  '51 6 * * *'
     # scheduled at 07:00 every Monday and Thursday
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
       id: sync
       uses: aormsby/Fork-Sync-With-Upstream-action@v1
       with:
-        upstream_repository: reuven/pytest-2020-sep-13
+        upstream_repository: lakesare/memcode
         upstream_branch: master
         target_branch: master                       # optional
         github_token: ${{ secrets.GITHUB_TOKEN }}   # optional, for accessing repos that requir authentication
