@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron:  '51 6 * * *'
+    - cron:  '53 6 * * *'
     # scheduled at 07:00 every Monday and Thursday
 
 jobs:
